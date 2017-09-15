@@ -1,0 +1,1 @@
+All video encoded files are stored after uploaded.
